@@ -1,8 +1,0 @@
-org\example\Model\Block.class
-org\example\Model\Member.class
-org\example\Controller\HandleMineRequest.class
-org\example\Main.class
-org\example\Model\Tx.class
-org\example\Service\MineBlock.class
-org\example\Service\RegisterMember.class
-org\example\Service\HashServices.class
